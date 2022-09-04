@@ -1,6 +1,6 @@
 /**
  *
- * @autor Kennedy Blanks
+ * @autor
  */
 
 public class Class1 {
